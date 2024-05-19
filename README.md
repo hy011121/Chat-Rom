@@ -1,3 +1,6 @@
+
+![tenor (1)](https://github.com/hy011121/Chat-Rom/assets/75035965/e13a0911-adda-4be1-a34c-8b054c2f1f83)
+
 # Simple Chat App
 
 Simple Chat App is a simple application for communicating between users. This application allows users to log in and register, send messages, and view messages that have been sent.
