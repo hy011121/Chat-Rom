@@ -28,7 +28,7 @@ Simple Chat App is a simple application for communicating between users. This ap
 - **users.txt**: File contains user data stored in serialization format.
 - **chat.txt**: File contains conversation history saved in text format.
 
-## Language Used
+## Technology Used
 
 - **PHP**: Programming language for application logic and interaction with servers.
 - **HTML/CSS**: For the structure and appearance of the user interface.
