@@ -1,0 +1,1 @@
+a:4:{s:5:"Admin";a:3:{s:8:"password";s:7:"Admin12";s:7:"profile";s:0:"";s:15:"profile_picture";s:13:"uploads/4.jpg";}s:7:"awokwok";a:2:{s:8:"password";s:7:"awokwok";s:7:"profile";s:0:"";}s:4:"user";a:2:{s:8:"password";s:7:"user123";s:7:"profile";s:0:"";}s:4:"tess";a:2:{s:8:"password";s:5:"tesss";s:7:"profile";s:0:"";}}
