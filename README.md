@@ -20,7 +20,7 @@ Simple Chat App is a simple application for communicating between users. This ap
 
 ## Code Structure
 
-- **index.php**: Application main page, displays chat room and message sending form.
+- **index.php**: The main page of the application, automatically transfers to registration room.
 - **login.php**: Login page for users.
 - **profile.php**: User profile page for changing password.
 - **register.php**: Registration page to create a new account.
